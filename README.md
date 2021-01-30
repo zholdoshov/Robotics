@@ -1,2 +1,3 @@
 # Robotics
-This project made for Robotics course
+Here is two projects:
+1. AI car
